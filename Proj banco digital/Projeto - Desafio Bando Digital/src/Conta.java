@@ -1,3 +1,4 @@
+
 //Usa-se o "implements" mais no nome da interface para implementar na classe.
 //Neste caso, a classe "Conta" é obrigada a implementar os métodos abstratos
 //da classe "IConta".
@@ -72,3 +73,4 @@ public abstract class Conta implements IConta {
 	
 
 }
+

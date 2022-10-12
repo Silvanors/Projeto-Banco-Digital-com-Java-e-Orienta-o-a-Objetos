@@ -1,4 +1,5 @@
 
+
 //para uma classe filha herdar da classe pai usa-se o "extends" mais o nome.
 //Assim o antigo código da classe filha não será usado. 
 
@@ -43,3 +44,4 @@ public class ContaCorrente extends Conta {
 	 * }
 	 */
 }
+
